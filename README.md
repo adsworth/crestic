@@ -157,8 +157,6 @@ Advanced Usage
 ```INI
 [global]
 password-file: ~/.config/restic/password
-
-[global]
 repo: sftp:your_server:my_computer.restic
 
 [global.backup]
